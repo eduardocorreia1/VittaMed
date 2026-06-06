@@ -113,7 +113,7 @@ function LandingPage() {
     /* @__PURE__ */ jsxRuntimeExports.jsx("header", { className: "sticky top-0 z-50 border-b border-border/60 bg-white/95 backdrop-blur-md", children: /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "container-x flex flex-col gap-3 py-3 md:flex-row md:items-center md:justify-between md:gap-4 md:py-4", children: [
       /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "flex items-center justify-between", children: [
         /* @__PURE__ */ jsxRuntimeExports.jsx(Logo, {}),
-        /* @__PURE__ */ jsxRuntimeExports.jsxs("a", { href: "#oferta", className: "inline-flex items-center gap-2 rounded-full bg-primary px-4 py-2 text-xs font-bold text-primary-foreground transition hover:bg-primary/90 md:hidden", children: [
+        /* @__PURE__ */ jsxRuntimeExports.jsxs("a", { href: "https://pay.kiwify.com.br/MQMvRqN", target: "_blank", rel: "noopener noreferrer", className: "inline-flex items-center gap-2 rounded-full bg-primary px-4 py-2 text-xs font-bold text-primary-foreground transition hover:bg-primary/90 md:hidden", children: [
           "Começar ",
           /* @__PURE__ */ jsxRuntimeExports.jsx(ArrowRight, { className: "h-3 w-3" })
         ] })
@@ -129,7 +129,7 @@ function LandingPage() {
         ] }),
         /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "hidden sm:inline text-[#D4AF37] font-bold", children: "• R$19,90 hoje" })
       ] }),
-      /* @__PURE__ */ jsxRuntimeExports.jsxs("a", { href: "#oferta", className: "hidden md:inline-flex items-center gap-2 rounded-full bg-primary px-5 py-2.5 text-sm font-medium text-primary-foreground transition hover:bg-primary/90", children: [
+      /* @__PURE__ */ jsxRuntimeExports.jsxs("a", { href: "https://pay.kiwify.com.br/MQMvRqN", target: "_blank", rel: "noopener noreferrer", className: "hidden md:inline-flex items-center gap-2 rounded-full bg-primary px-5 py-2.5 text-sm font-medium text-primary-foreground transition hover:bg-primary/90", children: [
         "Começar agora ",
         /* @__PURE__ */ jsxRuntimeExports.jsx(ArrowRight, { className: "h-4 w-4" })
       ] })
@@ -157,7 +157,7 @@ function LandingPage() {
           /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "font-display text-5xl md:text-7xl leading-none text-[#D4AF37]", children: "“" }),
           /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "max-w-xl text-xl md:text-2xl leading-relaxed text-foreground", children: "Um protocolo simples para reduzir o inchaço, recuperar a leveza e criar hábitos saudáveis em apenas 7 dias." })
         ] }),
-        /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "#oferta", className: "mt-8 inline-flex w-full md:w-auto items-center justify-center rounded-full bg-[#D4AF37] px-8 py-4 text-base font-bold text-black shadow-lg transition hover:scale-105 hover:shadow-xl", children: "QUERO ACESSAR O PROTOCOLO →" }),
+        /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "https://pay.kiwify.com.br/MQMvRqN", target: "_blank", rel: "noopener noreferrer", className: "mt-8 inline-flex w-full md:w-auto items-center justify-center rounded-full bg-[#D4AF37] px-8 py-4 text-base font-bold text-black shadow-lg transition hover:scale-105 hover:shadow-xl", children: "QUERO ACESSAR O PROTOCOLO →" }),
         /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "mt-6 flex flex-wrap gap-3 md:gap-4", children: [
           /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "rounded-full border border-border bg-white px-4 md:px-5 py-3 text-sm font-medium text-primary shadow-sm", children: "Acesso imediato" }),
           /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "rounded-full border border-border bg-white px-4 md:px-5 py-3 text-sm font-medium text-primary shadow-sm", children: "Método digital" }),
@@ -180,7 +180,7 @@ function LandingPage() {
             /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "font-display text-5xl text-primary", children: "R$19,90" })
           ] }),
           /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "mt-2 text-sm font-semibold text-[#D4AF37]", children: "Economia de 78% por tempo limitado" }),
-          /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "#oferta", className: "mt-6 inline-flex w-full items-center justify-center rounded-full bg-[#D4AF37] px-8 py-4 text-base font-bold text-black shadow-lg transition hover:scale-105", children: "QUERO ACESSAR AGORA →" })
+          /* @__PURE__ */ jsxRuntimeExports.jsx("a", { href: "https://pay.kiwify.com.br/MQMvRqN", target: "_blank", rel: "noopener noreferrer", className: "mt-6 inline-flex w-full items-center justify-center rounded-full bg-[#D4AF37] px-8 py-4 text-base font-bold text-black shadow-lg transition hover:scale-105", children: "QUERO ACESSAR AGORA →" })
         ] })
       ] }),
       /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "relative", children: [
