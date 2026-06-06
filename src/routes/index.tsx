@@ -533,9 +533,14 @@ rel="noopener noreferrer"
                   ))}
                 </ul>
 
-                <a href="#" className="btn-primary btn-primary-hover mt-8 w-full text-base">
-                  QUERO ACESSAR AGORA <ArrowRight className="h-4 w-4" />
-                </a>
+                <a
+  href="https://pay.kiwify.com.br/MQMvRqN"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="btn-primary btn-primary-hover mt-8 w-full text-base"
+>
+  QUERO ACESSAR AGORA <ArrowRight className="h-4 w-4" />
+</a>
                 <div className="mt-4 flex items-center justify-center gap-2 text-xs text-muted-foreground">
                   <ShieldCheck className="h-3.5 w-3.5" /> Compra 100% segura · SSL
                 </div>
