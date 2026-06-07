@@ -533,15 +533,14 @@ rel="noopener noreferrer"
                   ))}
                 </ul>
 
-                <button
-  type="button"
-  onClick={() => {
-    window.location.href = "https://pay.kiwify.com.br/MQMvRqN";
-  }}
-  className="btn-primary btn-primary-hover mt-8 w-full text-base"
->
-  QUERO ACESSAR AGORA <ArrowRight className="h-4 w-4" />
-</button>
+                <a
+            href="https://pay.kiwify.com.br/MQMvRqN"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-8 inline-flex w-full md:w-auto items-center justify-center rounded-full bg-[#D4AF37] px-8 py-4 text-base font-bold text-black shadow-lg transition hover:scale-105 hover:shadow-xl"
+          >
+            QUERO ACESSAR AGORA
+          </a>
                 <div className="mt-4 flex items-center justify-center gap-2 text-xs text-muted-foreground">
                   <ShieldCheck className="h-3.5 w-3.5" /> Compra 100% segura · SSL
                 </div>
