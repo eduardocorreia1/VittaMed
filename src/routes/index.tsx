@@ -385,23 +385,6 @@ rel="noopener noreferrer"
     </div>
   </div>
 </section>
-{/* COPY IMPACTANTE */}
-<section className="bg-white py-10 md:py-16">
-  <div className="container-x">
-
-    <div className="overflow-hidden rounded-[2rem] shadow-xl border border-border/50">
-      <img
-        src={inchadaCopy}
-        alt="Você não está gorda. Você pode estar inchada."
-        className="w-full h-auto object-cover"
-      />
-    </div>
-
-  
-
-  </div>
-</section>
-{/* Carrossel de resultados */}
 <section className="bg-[#F8FAF7] py-8 md:py-8">
   <div className="container-x">
     <div className="text-center">
@@ -441,6 +424,22 @@ rel="noopener noreferrer"
         </div>
       ))}
     </div>
+  </div>
+</section>
+{/* COPY IMPACTANTE */}
+<section className="bg-white py-10 md:py-16">
+  <div className="container-x">
+
+    <div className="overflow-hidden rounded-[2rem] shadow-xl border border-border/50">
+      <img
+        src={inchadaCopy}
+        alt="Você não está gorda. Você pode estar inchada."
+        className="w-full h-auto object-cover"
+      />
+    </div>
+
+  
+
   </div>
 </section>
 {/* Garantia */}
