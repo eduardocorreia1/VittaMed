@@ -174,7 +174,7 @@ function LandingPage() {
       <Logo />
 
       <a
-        href="https://pay.kiwify.com.br/MQMvRqN"
+        href="https://go.fruitfypay.com/EPDtZhsvnbricWpi"
 target="_blank"
 rel="noopener noreferrer"
         className="inline-flex items-center gap-2 rounded-full bg-primary px-4 py-2 text-xs font-bold text-primary-foreground transition hover:bg-primary/90 md:hidden"
@@ -196,7 +196,7 @@ rel="noopener noreferrer"
     </div>
 
     <a
-      href="https://pay.kiwify.com.br/MQMvRqN"
+      href="https://go.fruitfypay.com/EPDtZhsvnbricWpi"
 target="_blank"
 rel="noopener noreferrer"
       className="hidden md:inline-flex items-center gap-2 rounded-full bg-primary px-5 py-2.5 text-sm font-medium text-primary-foreground transition hover:bg-primary/90"
@@ -275,7 +275,7 @@ rel="noopener noreferrer"
           </div>
 
           <a
-            href="https://pay.kiwify.com.br/MQMvRqN"
+            href="https://go.fruitfypay.com/EPDtZhsvnbricWpi"
             target="_blank"
             rel="noopener noreferrer"
             className="mt-8 inline-flex w-full md:w-auto items-center justify-center rounded-full bg-[#D4AF37] px-8 py-4 text-base font-bold text-black shadow-lg transition hover:scale-105 hover:shadow-xl"
@@ -355,9 +355,9 @@ rel="noopener noreferrer"
           </p>
 
           <a
-            href="https://pay.kiwify.com.br/MQMvRqN"
-target="_blank"
-rel="noopener noreferrer"
+            href="https://go.fruitfypay.com/EPDtZhsvnbricWpi"
+            target="_blank"
+            rel="noopener noreferrer"
             className="mt-6 inline-flex w-full items-center justify-center rounded-full bg-[#D4AF37] px-8 py-4 text-base font-bold text-black shadow-lg transition hover:scale-105"
           >
             QUERO ACESSAR AGORA →
@@ -534,7 +534,7 @@ rel="noopener noreferrer"
 
                 <button
   type="button"
-  onClick={() => window.open("https://pay.kiwify.com.br/MQMvRqN", "_blank")}
+  onClick={() => window.open("https://go.fruitfypay.com/EPDtZhsvnbricWpi", "_blank")}
   className="btn-primary btn-primary-hover mt-8 w-full text-base"
 >
   QUERO ACESSAR AGORA <ArrowRight className="h-4 w-4" />
