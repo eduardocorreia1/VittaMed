@@ -360,7 +360,7 @@ rel="noopener noreferrer"
             rel="noopener noreferrer"
             className="mt-6 inline-flex w-full items-center justify-center rounded-full bg-[#D4AF37] px-8 py-4 text-base font-bold text-black shadow-lg transition hover:scale-105"
           >
-            QUERO ACESSAR AGORA →
+            TESTE EDUARDO 123 →
           </a>
         </div>
       </div>
